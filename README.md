@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamGarg9060
 - 👀 I’m interested in Machine Learning and Backend Development.
-- 🌱 I’m currently learning Backend Development and Cloud-AWS.
-- 💞️ I’m looking to collaborate on backend project.
+- 🌱 I’m currently learning Backend Development and AWS.
+- 💞️ I’m looking to collaborate on backend project and everything that interests me.
 - 📫 Connect with me- https://www.linkedin.com/in/shubham-garg-9060/
 
 <!---
