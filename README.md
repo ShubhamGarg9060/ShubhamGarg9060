@@ -13,3 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 <!--\
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarg9060&show_icons=true&theme=radical)](https://github.com/ShubhamGarg9060)-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Worked with👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,dynamodb,express,figma,github,grapfql,html,java,js,linux,materialui,mysql,nextjs,nodejs,postman,py,react,tailwind,tensorflow,aws,vscode&perline=14" />
+  </a>
+</p>
